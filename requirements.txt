@@ -1,0 +1,25 @@
+# Core Libraries
+pandas==2.2.2
+numpy==2.0.1
+
+# Visualization
+matplotlib==3.9.2
+
+# Statistical Visualization
+seaborn==0.13.2
+
+# Jupyter Notebook
+jupyter==1.1.1
+notebook==7.2.1
+
+# Machine Learning (Future Scope)
+scikit-learn==1.5.1
+
+# Date Handling
+python-dateutil==2.9.0
+
+# Progress Bar
+tqdm==4.66.5
+
+# Data Validation
+openpyxl==3.1.5
